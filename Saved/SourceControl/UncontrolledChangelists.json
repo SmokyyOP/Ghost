@@ -5,7 +5,30 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal_Projects/Soul_Set/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Unreal_Projects/Soul_Set/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_B.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_BL.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_BR.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_F.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_FL.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_FR.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_LL.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_LR.uasset",
+				"D:/Ghost/Content/Characters/Souls/M_Neutral_Run_Loop_RL.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_BL.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Stand_Idle_Loop.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_RL.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_LR.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_LL.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_FR.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_FL.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_F.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_BR.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/M_Neutral_Run_Loop_B.uasset",
+				"D:/Ghost/Content/Characters/Souls/Movment/BS_TerfMovement.uasset",
+				"D:/Ghost/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Ghost/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Ghost/Content/Characters/Mannequins/Meshes/SK_Mannequin_AnimBlueprint.uasset"
 			]
 		}
 	]
