@@ -1168,3 +1168,20 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.11-10.14.23:314][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2025.01.11-10.14.23:319][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2025.01.11-10.14.23:372][736]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.01.11-10.17.30:156][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.11-10.17.30:189][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Souls/Movment/BS_TerfMovement] ([1] browsable assets)...
+[2025.01.11-10.17.30:189][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Souls/Movment/BS_TerfMovement]
+[2025.01.11-10.17.30:189][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Souls/Movment/BS_TerfMovement" FILE="../../../../Ghost/Content/Characters/Souls/Movment/BS_TerfMovement.uasset" SILENT=true
+[2025.01.11-10.17.30:191][360]LogSavePackage: Moving output files for package: /Game/Characters/Souls/Movment/BS_TerfMovement
+[2025.01.11-10.17.30:192][360]LogSavePackage: Moving '../../../../Ghost/Saved/BS_TerfMovement31567F5944A60656337C91A4FAFC38D0.tmp' to '../../../../Ghost/Content/Characters/Souls/Movment/BS_TerfMovement.uasset'
+[2025.01.11-10.17.30:198][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.105 ms (total: 302.931 ms)
+[2025.01.11-10.17.30:226][360]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.11-10.17.30:226][360]LogContentValidation: Enabled validators:
+[2025.01.11-10.17.30:226][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.11-10.17.30:226][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.11-10.17.30:226][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.11-10.17.30:226][360]LogContentValidation: Display: Validating asset /Game/Characters/Souls/Movment/BS_TerfMovement.BS_TerfMovement
+[2025.01.11-10.17.30:226][360]AssetCheck: /Game/Characters/Souls/Movment/BS_TerfMovement Validating asset
+[2025.01.11-10.20.14:509][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 714.913757
+[2025.01.11-10.20.15:839][634]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.11-10.20.15:839][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 715.910828, Update Interval: 333.000275
